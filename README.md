@@ -33,11 +33,11 @@ Advanced React with Webpack Setup. How to set it up yourself:
 
 ## Alternatives
 
-- [Minimal React Webpack Babel Setup](https://github.com/rwieruch/minimal-react-webpack-babel-setup)
+- [Minimal React Webpack Babel Setup](https://github.com/vikas07/minimal-react-webpack-babel-master)
 
 ## Installation
 
-- `git clone git@github.com:rwieruch/advanced-react-webpack-babel-setup.git`
+- `git clone git@github.com:vikas07/advanced-react-webpack-babel-setup.git`
 - cd advanced-react-webpack-babel-setup
 - npm install
 - npm start
